@@ -7,7 +7,7 @@ The data can be found in the [Health Nutrition and Population Statistics](https:
 ## Template 
 
 When the design of the template is ready, go to export as a template:
-<p align="left"><img width="100%" src="./images/parametro_5.png"></p>
+<p align="left"><img width="50%" src="./images/parametro_5.png"></p>
 
 Add the instructions to set up the data:
 <p align="left"><img width="100%" src="./images/parametro_6.png"></p>
@@ -26,7 +26,7 @@ In origin configurations, select the parameter created in the route:
 <p align="left"><img width="100%" src="./images/parametro_4.png"></p>
 
 To open the template, select import from ```template Power BI``` and the template saved previously:
-<p align="left"><img width="100%" src="./images/parametro_8.png"></p>
+<p align="left"><img width="50%" src="./images/parametro_8.png"></p>
 <p align="left"><img width="100%" src="./images/parametro_9.png"></p>
 
 Add the filepath that contains the data:
